@@ -1,0 +1,18 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Elantech\SmartPad]
+"DisableWhenTypeByApTime_Enable"=dword:00000000
+"DisableWhenType_Enable"=dword:00000000
+"DisableWhenType_AllArea"=dword:00000000
+"DisableWhenType_DelayTime_Tap"=dword:00000000
+"DisableWhenType_DelayTime_Move"=dword:00000000
+"DisableWhenType_DelayTime_Gesture"=dword:00000000
+"DisableWhenType_AZone_TouchThenFree"=dword:00000000
+"DisableWhenType_Bottom_Range"=dword:00000000
+"DisableWhenType_Top_Range"=dword:000001f4
+"DisableWhenType_Right_Range"=dword:00000000
+"DisableWhenType_Left_Range"=dword:00000000
+"DisableWhenType_Unit"=dword:00000000
+"DisableWhenKeyStroke_AllArea"=dword:00000000
+"DisableWhenKeyStroke_Enable"=dword:00000000
+
